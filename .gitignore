@@ -1,0 +1,12 @@
+#local .terraform direstories 
+* */.terraform/*
+*.terraform.*
+.terraform*
+
+#.tfstate fiels 
+*.tfstate
+*.tfstate.*
+
+#crash log files
+crash.log
+crash.*.log
